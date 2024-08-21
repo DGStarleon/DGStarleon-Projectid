@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #186fad;
     color: #fff;
     padding: 10px 0;
     position: fixed;
@@ -82,7 +82,7 @@ header nav ul li a {
 .cta {
     display: inline-block;
     padding: 10px 20px;
-    background: #333;
+    background: #21458d;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -139,7 +139,7 @@ section {
     width: 30%;
     margin: 20px;
     padding: 20px;
-    background: #fff;
+    background: #6cb8d9;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -184,7 +184,7 @@ section {
 }
 
 footer {
-    background: #333;
+    background: #186fad;
     color: #fff;
     text-align: center;
     padding: 20px 0;
